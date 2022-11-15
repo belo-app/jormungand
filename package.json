@@ -5,10 +5,10 @@
   "author": "belo tech team <tech@belo.app>",
   "license": "MIT",
   "bin": {
-    "commit": "src/commit/cli.js"
+    "commit": "commit/cli.js"
   },
   "scripts": {
-    "commit": "src/commit/cli.js",
+    "commit": "commit/cli.js",
     "release": "release-it",
     "prepare": "husky install"
   },

@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["./src/eslint-config/recommended"],
+  extends: ["./eslint-config/recommended"],
 };
