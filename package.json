@@ -10,7 +10,7 @@
   "scripts": {
     "commit": "commit/cli.js",
     "release": "release-it",
-    "prepare": "husky install"
+    "husky": "husky install"
   },
   "dependencies": {
     "@babel/core": "^7.20.2",
