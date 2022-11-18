@@ -1,5 +1,12 @@
 
 
+## [0.2.4](https://github.com/belo-app/jormungand/compare/0.2.3...0.2.4) (2022-11-18)
+
+
+### Bug Fixes
+
+* change default prepare script name ([6c25a3c](https://github.com/belo-app/jormungand/commit/6c25a3ce7354e3be4a177246f778c19ae9a097c8))
+
 ## [0.2.3](https://github.com/belo-app/jormungand/compare/0.2.2...0.2.3) (2022-11-18)
 
 ## [0.2.2](https://github.com/belo-app/jormungand/compare/0.2.1...0.2.2) (2022-11-15)
