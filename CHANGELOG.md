@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/belo-app/jormungand/compare/0.2.4...0.3.0) (2022-12-13)
+
+
+### Features
+
+* replace yarn with npm ([b223b22](https://github.com/belo-app/jormungand/commit/b223b2269e420c3f74e64765cc002f777a3cef97))
+
 ## [0.2.4](https://github.com/belo-app/jormungand/compare/0.2.3...0.2.4) (2022-11-18)
 
 
