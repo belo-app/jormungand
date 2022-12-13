@@ -32,10 +32,5 @@
     "allowUnusedLabels": false,
     "allowUnreachableCode": false,
     "skipLibCheck": true
-  },
-  "ts-node": {
-    "transpileOnly": true,
-    "require": ["tsconfig-paths/register"],
-    "swc": true
   }
 }
