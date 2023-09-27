@@ -1,7 +1,7 @@
 {
   "name": "jormungand",
   "description": "belo dev tools",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "author": "belo tech team <tech@belo.app>",
   "license": "MIT",
   "bin": {

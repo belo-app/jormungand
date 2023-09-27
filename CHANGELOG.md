@@ -1,5 +1,12 @@
 
 
+## [0.5.0](https://github.com/belo-app/jormungand/compare/0.4.1...0.5.0) (2023-09-27)
+
+
+### Features
+
+* **dependencies:** update dependencies ([d9065fb](https://github.com/belo-app/jormungand/commit/d9065fbb1b6ab8b6e17b033b5be1b29686cf0e64))
+
 ## [0.4.1](https://github.com/belo-app/jormungand/compare/0.4.0...0.4.1) (2023-08-10)
 
 
